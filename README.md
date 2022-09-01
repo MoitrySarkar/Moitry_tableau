@@ -1,4 +1,4 @@
-## Moitry_tableau
+## Moitry_Product Insights in Tableau 
 A Yearly/Quarterly sales dashboard on product Insights.
 To create this dashbaord various calculated fields and parameters were created to analyse the sales yearly,monthly and quaterly.
 KPIs created as Total sales, Total cost, Total profit, profit margin
